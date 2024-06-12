@@ -1,0 +1,44 @@
+{
+  "viewer": {
+    "_id": "1",
+    "firstName": "Diana",
+    "lastName": "Ruiz Garcia",
+    "movie": [
+      {
+        "_id": "1",
+        "movieName": "Parasite",
+        "Genre": "Thriller"
+      },
+      {
+        "_id": "2",
+        "movieName": "A Walk to Remember",
+        "Genre": "Drama"
+      },
+      {
+        "_id": "3",
+        "movieName": "A Star is Born",
+        "Genre": "Romance"
+      }
+    ]
+  },
+  "rating": [
+    {
+      "_id": "1",
+      "ratingScore": 8.5,
+      "viewerId": "1",
+      "movieId": "1"
+    },
+    {
+      "_id": "2",
+      "ratingScore": 7.3,
+      "viewerId": "1",
+      "movieId": "2"
+    },
+    {
+      "_id": "3",
+      "ratingScore": 7.6,
+      "viewerId": "1",
+      "movieId": "3"
+    }
+  ]
+}
