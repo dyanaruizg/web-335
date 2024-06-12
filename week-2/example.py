@@ -5,4 +5,4 @@ File Name: example.py
 Description: Building a simple Python program that prints a multiplication result.
 """
 
-print('3 * 4 = %d' % (3*4))
+print('3 * 4 = %d' % (3*4)) # Printing the multiplication result
