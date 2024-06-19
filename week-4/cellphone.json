@@ -1,0 +1,39 @@
+{
+  "user": {
+    "_id" : "1",
+    "firstName": "Diana",
+    "lastName": "Ruiz Garcia",
+    "device": [
+      {
+        "_id": "1",
+        "deviceName": "iPhone 14 Pro Max",
+        "deviceType": "iOS",
+        "charger_id": "1"
+      },
+      {
+        "_id": "2",
+        "deviceName": "Samsung Galaxy S24",
+        "deviceType": "Android",
+        "charger_id": "2"
+      },
+      {
+        "_id": "3",
+        "deviceName": "One Plus 12",
+        "deviceType": "Android",
+        "charger_id": "2"
+      }
+    ]
+  },
+  "charger": [
+    {
+      "_id": "1",
+      "chargerType": "C",
+      "voltage": "20W"
+    },
+    {
+      "_id": "2",
+      "chargerType": "C",
+      "voltage": "15W"
+    }
+  ]
+}
