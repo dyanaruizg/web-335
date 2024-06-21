@@ -1,8 +1,8 @@
 /**
 	Title: RuizGarcia-MongoDBShell.js
-    Author: Diana Ruiz Garcia
-    Date: 18 June 2024
-    Description: Queries I wrote in hands-on project 4.2 using the MongoDB Shell.
+  Author: Diana Ruiz Garcia
+  Date: 18 June 2024
+  Description: Queries I wrote in hands-on project 4.2 using the MongoDB Shell.
  */
 
 // Query that displays all users in the users collection.
