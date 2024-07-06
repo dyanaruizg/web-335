@@ -1,6 +1,6 @@
 """
-Title: pymongo_conn.py
-Author: Professor Krasso
+Title: RuizGarcia_usersp1.py
+Author: Diana Ruiz Garcia
 Date: 2 July 2024
 Description: Hands-On 4.2: Python with MongoDB, Part I
 """
