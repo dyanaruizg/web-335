@@ -1,7 +1,7 @@
 /*
 Names: Diana Ruiz Garcia, Dustin Craven, Kylie Struhs
 Date: July 19 2024
-File Name: queries.js
+File Name: CoolKatz-WhatABook.js
 Description: Queries for WhatABook Project
 */
 
@@ -38,10 +38,10 @@ db.customers.aggregate([
 db.wishlistItems.insertOne({
   customerId: "c302",
   bookId: "b51",
-})
+});
 
 // a query to remove books from a customer's wishlist
 db.wishlistItems.deleteOne({
   customerId: "c302",
   bookId: "b51",
-})
+});
